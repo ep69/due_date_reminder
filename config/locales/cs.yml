@@ -1,5 +1,5 @@
 cs:
-  reminder_default_notification_settings: "Výchozí nastavení připomíenutí
+  reminder_default_notification_settings: "Výchozí nastavení připomenutí
   field_reminder_notification: "Upozorňuj na úkoly v těchto dnech"
   error_reminder_notification_input: "Špatné zadání, hodnoty musí být odděleny čárkami."
   reminder_mail_subject: "Připomenutí: Máte úkoly, kterým se blíží konečný termín vyřízení."
